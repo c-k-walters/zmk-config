@@ -1,0 +1,16 @@
+if SHIELD_MORNINGSTAR_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "Morning Star"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_MORNINGSTAR_LEFT || SHIELD_MORNINGSTAR_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif

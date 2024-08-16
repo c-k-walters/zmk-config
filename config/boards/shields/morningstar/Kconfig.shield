@@ -1,0 +1,6 @@
+config SHIELD_MORNINGSTAR_LEFT
+    def_bool $(shields_list_contains,morningstar_left)
+
+config SHIELD_MORNINGSTAR_RIGHT
+    def_bool $(shields_list_contains,morningstar_right)
+
