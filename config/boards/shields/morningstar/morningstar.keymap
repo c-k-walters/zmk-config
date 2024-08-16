@@ -29,7 +29,7 @@
    &kp BSPC   &kp A     &kp R     &kp S      &kp T      &kp D                &kp H      &kp N       &kp E      &kp I     &kp O     &kp RET
    &td0       &kp Z     &kp X     &kp C      &kp V      &kp B                &kp K      &kp M       &kp COMMA  &kp DOT   &kp FSLH  &kp APOS
    &kp LCTRL  &kp LALT  &kp LGUI  &kp LGUI  &kp SPACE   &to 1                &lt 1 SPACE &kp SPACE   &kp LARW   &kp DARW  &kp UARW  &kp RARW
-
+						>;
                 };
                 lower_layer {
 // ------------------------------------------------------------------------------------------------------------
